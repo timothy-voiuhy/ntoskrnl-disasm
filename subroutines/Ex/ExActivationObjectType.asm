@@ -1,0 +1,3 @@
+ExActivationObjectType dq ?             ; DATA XREF: sub_140704960+51↑r
+                                        ; sub_140704C20+68↑r ...
+; Exported entry 199. ExCoreMessagingObjectType

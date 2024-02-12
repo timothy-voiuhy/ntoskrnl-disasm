@@ -1,0 +1,3 @@
+ExCompositionObjectType dq ?            ; DATA XREF: sub_140704960+7B↑r
+                                        ; sub_140704C20+87↑r ...
+; Exported entry 207. ExDesktopObjectType

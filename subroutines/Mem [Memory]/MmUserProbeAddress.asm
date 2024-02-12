@@ -1,0 +1,3 @@
+MmUserProbeAddress dq 7FFFFFFF0000h     ; DATA XREF: sub_140405C40+130↓r
+                                        ; sub_140405C40+137↓r ...
+; Exported entry 1447. MmHighestUserAddress

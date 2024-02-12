@@ -1,0 +1,3 @@
+PsThreadType    dq ?                    ; DATA XREF: sub_140325A30+3B↑r
+                                        ; PsGetThreadProperty+65↑r ...
+; Exported entry 817. IoFileObjectType

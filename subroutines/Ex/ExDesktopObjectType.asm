@@ -1,0 +1,3 @@
+ExDesktopObjectType dq ?                ; DATA XREF: sub_140704960+84↑r
+                                        ; sub_140704C20+90↑r ...
+; Exported entry 1908. PsPartitionType

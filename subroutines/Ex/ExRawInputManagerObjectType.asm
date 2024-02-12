@@ -1,0 +1,3 @@
+ExRawInputManagerObjectType dq ?        ; DATA XREF: sub_140704960+72↑r
+                                        ; sub_140704C20+7E↑r ...
+; Exported entry 195. ExCompositionObjectType

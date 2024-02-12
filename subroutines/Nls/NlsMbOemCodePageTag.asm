@@ -1,0 +1,3 @@
+NlsMbOemCodePageTag db 0                ; DATA XREF: RtlIsNameLegalDOS8Dot3:loc_1406F8D11↑r
+                                        ; sub_1406F8EC8+2C↑r ...
+; Exported entry 1521. NlsMbCodePageTag

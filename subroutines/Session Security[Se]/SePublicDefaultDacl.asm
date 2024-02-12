@@ -1,0 +1,3 @@
+SePublicDefaultDacl dq ?                ; DATA XREF: sub_14069B688:loc_1408168BB↑r
+                                        ; sub_140A4C9C0+FB↑w ...
+; Exported entry 2571. SeSystemDefaultDacl
